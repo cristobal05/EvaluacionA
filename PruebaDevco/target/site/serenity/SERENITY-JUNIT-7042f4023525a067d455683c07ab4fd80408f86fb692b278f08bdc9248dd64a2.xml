@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Reservar vuelo en la plataforma web https://www.travelocity.com/" skipped="0" tests="1" time="74.31" timestamp="2020-11-16 11:04:49"><testcase name="Reservar vuelo en la plataforma web"><error message="Element should have been &quot;select&quot; but was &quot;table&quot;&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-893HK6C', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.support.ui.UnexpectedTagNameException">Element should have been "select" but was "table"
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-893HK6C', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: driver.version: unknown</error><system-err>Element should have been "select" but was "table"
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-893HK6C', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: driver.version: unknown&#13;
+tasks.BuscarVuelo.performAs(BuscarVuelo.java:38)&#13;
+stepdefinitions.CasosDevcoSteps.buscaLaCiudadDestinoLlenaTodaLaInformacionRequerida(CasosDevcoSteps.java:46)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
